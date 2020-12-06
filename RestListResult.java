@@ -1,6 +1,7 @@
 package com.example.mission3;
 
 import java.util.ArrayList;
+import android.graphics.Movie;
 
 public class RestListResult {
     String Type;
