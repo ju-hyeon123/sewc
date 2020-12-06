@@ -1,4 +1,4 @@
-package com.example.mission3;
+package com.example.WebReqeustTest_Application;
 
 public class Rest {
     String rnum;
