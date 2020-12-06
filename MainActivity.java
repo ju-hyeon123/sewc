@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
     {
         Gson gson = new Gson();
         RestList restList = gson.fromJson(response, RestList.class);
-        println("쉼터 수 : "+ restList.areaResult.dailyList.size());
+        println("쉼터 이용 가능 인원수 : "+ restList.areaResult.dailyList.size());
     }
 
 }
